@@ -2,7 +2,7 @@
 <h3 align="center">currently focussing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ved52-ui&label=Profile%20views&color=0e75b6&style=flat" alt="ved52-ui" /> </p>
-<img align="center" width="1000" src="https://camo.githubusercontent.com/966811cabedd03800ed174378c921151f1030f9b2d25acba22c7adffa59f1201/68747470733a2f2f632e74656e6f722e636f6d2f2d5579674268336e6e664541414141432f636f64696e672e676966">
+<img align="center" width="1000" height="500" src="https://camo.githubusercontent.com/966811cabedd03800ed174378c921151f1030f9b2d25acba22c7adffa59f1201/68747470733a2f2f632e74656e6f722e636f6d2f2d5579674268336e6e664541414141432f636f64696e672e676966">
 - 🔭 I’m currently working on **data science**
 
 <h3 align="left">Connect with me:</h3>
