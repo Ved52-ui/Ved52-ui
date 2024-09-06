@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ved Patel</h1>
 <h3 align="center">currently focussing</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ved52-ui&label=Profile%20views&color=0e75b6&style=flat" alt="ved52-ui" /> </p>
+<p align="left"> <img src="https://img.etimg.com/thumb/width-1600,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg alt="ved52-ui" /> </p>
 <img align="center" width="1000" height="500" src="https://camo.githubusercontent.com/966811cabedd03800ed174378c921151f1030f9b2d25acba22c7adffa59f1201/68747470733a2f2f632e74656e6f722e636f6d2f2d5579674268336e6e664541414141432f636f64696e672e676966">
 - 🔭 I’m currently working on **data science**
 
