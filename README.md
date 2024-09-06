@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ved Patel</h1>
 <h3 align="center">currently focussing</h3>
 
-<p align="left"> <img src="https://img.etimg.com/thumb/width-1600,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg alt="ved52-ui" /> </p>
+<p align="left"> <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif alt="ved52-ui" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
