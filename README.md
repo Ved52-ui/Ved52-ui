@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ved Patel</h1>
 <h3 align="center">currently focussing</h3>
 
-<p align="left"> <img src="https://media1.tenor.com/m/m1Mr-khUDVgAAAAC/anime-hacking.gif  height="300" width="40" alt="ved52-ui"/> </p>
+<p align="left"> <img src="https://media1.tenor.com/m/m1Mr-khUDVgAAAAC/anime-hacking.gif  height="300" width="400" alt="ved52-ui"/> </p>
 
 
 <h3 align="left">Connect with me:</h3>
