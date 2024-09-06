@@ -18,5 +18,4 @@
 </p><br><br>
 <h1 align="center">MY-Repositorys</h1><br>
 <a href="https://github.com/Ved52-ui/Python-Blog">Python-Blog</a><br>
-<a href="https://github.com/Ved52-ui/Hill-Climb-Racing-With-Python-Gesture-">Python-Blog</a><br>
 <a href="https://github.com/Ved52-ui/Hill-Climb-Racing-With-Python-Gesture-">Python Hand-Motion Gesture With Hill Climb Racing</a><br>
