@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ved Patel</h1>
-<h3 align="center">------Currently Focussing</h3>
+<h3 align="center">------Currently Focussing...</h3>
 
 <p align="left"> <img src="https://media1.tenor.com/m/m1Mr-khUDVgAAAAC/anime-hacking.gif  height="300" width="4000" alt="ved52-ui"/> </p>
 
