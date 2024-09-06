@@ -17,7 +17,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p><p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://appinventor.mit.edu/" target="_blank" rel="noreferrer"> <img src="[https://appinventor.mit.edu/explore/sites/explore.appinventor.mit.edu/files/ai-bee-logo.png](https://static.wixstatic.com/media/036ccb_d9e0ee91fd5942f7858bd504304bc715~mv2.png/v1/fill/w_280,h_285,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ai-bee-logo_edited.png)" alt="MIT App Inventor" width="40" height="40"/> </a> 
+<a href="https://appinventor.mit.edu/" target="_blank" rel="noreferrer"> <img src="https://appinventor.mit.edu/explore/sites/explore.appinventor.mit.edu/files/ai-bee-logo.png" alt="MIT App Inventor" width="40" height="40"/> </a> 
 
 
 <p><img align="right" width="500" height="400" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif"></p>
