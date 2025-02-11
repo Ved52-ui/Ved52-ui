@@ -23,7 +23,7 @@
 
 
 
-<p><img align="center" width="4000" height="500" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif"></p>
+<p><img align="center" width="4000" height="500" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif"></p>
 </p><br><br>
 <h1 align="center" width="100">MY-Repositorys</h1><br>
 <table>
