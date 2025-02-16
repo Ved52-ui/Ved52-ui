@@ -24,7 +24,7 @@
 
 
 <p><img align="center" width="2000" height="500" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif"></p>
-<p><img align="center" width="2000" height="50" src="https://i.pinimg.com/originals/64/fa/f6/64faf62f2dc4970d8463a4e4b1ae1052.gif"></p>
+<p><img align="center" width="3000" height="500" src="https://i.pinimg.com/originals/64/fa/f6/64faf62f2dc4970d8463a4e4b1ae1052.gif"></p>
 </p><br><br>
 <h1 align="center" width="100">MY-Repositorys</h1><br>
 <table>
