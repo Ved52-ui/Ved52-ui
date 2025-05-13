@@ -17,13 +17,14 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://appinventor.mit.edu/" target="_blank" rel="noreferrer"> <img src="https://gallery.appinventor.mit.edu/image/4535bf75-b139-42be-9dd4-43e1081c345e/dwsdw.png" alt="MIT App Inventor" width="40" height="40"/> </a> 
+
 <h2><p>
 
 <h3 align="left">To Make Mobile Applications:</h3>
 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/25082439/reactnative-inner.svg" alt="React-Native" width="40" height="40"/> </a>
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://image.pngaaa.com/606/3417606-middle.png" alt="Android-Studio" width="40" height="40"/> </a>
+<a href="https://appinventor.mit.edu/" target="_blank" rel="noreferrer"> <img src="https://gallery.appinventor.mit.edu/image/4535bf75-b139-42be-9dd4-43e1081c345e/dwsdw.png" alt="MIT App Inventor" width="40" height="40"/> </a> 
  
 
 <p><img align="center" width="2000" height="500" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" ></p>
