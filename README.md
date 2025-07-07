@@ -41,10 +41,3 @@
  <tr><td><a href="https://github.com/Ved52-ui/Python-With-Mysql-Database-IN-Graphical-Interface">Python-With-Mysql-Database-IN-Graphical-Interface</a><br></tr></td>
 </tr>
 </table>
-
-
-### 🔝 Top Contributed Repo
-![](https://https://github.com/Ved52-ui)
-![](https://https://github.com/Ved52-ui)
-![](https://https://github.com/Ved52-ui)
-![](https://https://github.com/Ved52-ui)
