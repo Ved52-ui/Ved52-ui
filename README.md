@@ -28,7 +28,7 @@
 
 
 <p><img align="center" width="2000" height="500" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" ></p>
-<p><img align="center" width="3000" height="500" src="https://i.pinimg.com/originals/64/fa/f6/64faf62f2dc4970d8463a4e4b1ae1052.gif"></p>
+
 </p><br><br>
 <h1 align="center" width="100">MY-Repositorys</h1><br>
 <table>
@@ -41,3 +41,11 @@
  <tr><td><a href="https://github.com/Ved52-ui/Python-With-Mysql-Database-IN-Graphical-Interface">Python-With-Mysql-Database-IN-Graphical-Interface</a><br></tr></td>
 </tr>
 </table>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ved52-ui&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Ved52-ui&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
