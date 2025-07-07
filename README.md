@@ -24,8 +24,6 @@
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/flutter.png" alt="flutter" width="40" height="40"/> </a> 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/25082439/reactnative-inner.svg" alt="React-Native" width="40" height="40"/> </a>
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://image.pngaaa.com/606/3417606-middle.png" alt="Android-Studio" width="40" height="40"/> </a>
-<a href="https://appinventor.mit.edu/" target="_blank" rel="noreferrer"> <img src="https://gallery.appinventor.mit.edu/image/4535bf75-b139-42be-9dd4-43e1081c345e/dwsdw.png" alt="MIT App Inventor" width="40" height="40"/> </a> 
-
 
 
 <h3 align="left">Real-Time Servers</h3>
