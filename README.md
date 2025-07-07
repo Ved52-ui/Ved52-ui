@@ -29,7 +29,7 @@
 
 
 <h3 align="left">Real-Time Servers</h3>
-<a href="https://www.plesk.com/" target="_blank" rel="noreferrer"> <img src="https://cdn1.plesk.com/wp-content/uploads/2017/05/27012542/plesk_logo_primary_positive_.jpg" alt="Plesk" width="70" height="70"/></a><br><br>
+<a href="https://www.plesk.com/" target="_blank" rel="noreferrer"> <img src="https://cdn1.plesk.com/wp-content/uploads/2017/05/27012542/plesk_logo_primary_positive_.jpg" alt="Plesk" width="70" height="70"/></a>
 <a href="https://cyberpanel.net/" target="_blank" rel="noreferrer"> <img src="https://store-images.s-microsoft.com/image/apps.59751.d4c39dfb-5016-418e-9b48-24c7cdb5ef6e.0654d2bf-a8e8-48d3-a7bd-1f7c3a6b8b31.7a7649bb-4249-4222-b1e9-cfe94494addd" alt="CYberPAnnel" width="70" height="70"/> </a><br>
 
 
