@@ -43,6 +43,6 @@
    <tr><td><a href="https://github.com/Ved52-ui/React-Native-Process">React Native</a><br></td></tr>
  <tr><td><a href="https://github.com/Ved52-ui/How-To-Run-Python-In-Browser">How To Run Python In Browser</a><br></tr></td>
  <tr><td><a href="https://github.com/Ved52-ui/Python-With-Mysql-Database-IN-Graphical-Interface">Python-With-Mysql-Database-IN-Graphical-Interface</a><br></tr></td>
-<tr><td><a href="https://github.com/Ved52-ui/JavaScript-API-In-RealTime-Project">How To Run Python In Browser</a><br></tr></td>
+<tr><td><a href="https://github.com/Ved52-ui/JavaScript-API-In-RealTime-Project">Javascript Fetch API in RealTime Project</a><br></tr></td>
 </tr>
 </table>
