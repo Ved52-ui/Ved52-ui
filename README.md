@@ -34,15 +34,3 @@
 <p><img align="center" width="2000" height="500" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" ></p>
 
 </p><br><br>
-<h1 align="center" width="100">MY-Repositorys</h1><br>
-<table>
-<tr>
- s<tr><td><a href="https://github.com/Ved52-ui/Python-Blog">Python-Blog</a><br></td></tr>
- <tr> <td><a href="https://github.com/Ved52-ui/Hill-Climb-Racing-With-Python-Gesture-">Python Hand-Motion Gesture With Hill Climb Racing</a><br></td></tr>
- <tr><td><a href="https://github.com/Ved52-ui/flutter/blob/main/flutter%20commands.md">Flutter</a><br></tr></td>
-   <tr><td><a href="https://github.com/Ved52-ui/React-Native-Process">React Native</a><br></td></tr>
- <tr><td><a href="https://github.com/Ved52-ui/How-To-Run-Python-In-Browser">How To Run Python In Browser</a><br></tr></td>
- <tr><td><a href="https://github.com/Ved52-ui/Python-With-Mysql-Database-IN-Graphical-Interface">Python-With-Mysql-Database-IN-Graphical-Interface</a><br></tr></td>
-<tr><td><a href="https://github.com/Ved52-ui/JavaScript-API-In-RealTime-Project">Javascript Fetch API in RealTime Project</a><br></tr></td>
-</tr>
-</table>
