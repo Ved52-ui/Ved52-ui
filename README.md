@@ -31,6 +31,6 @@
 <a href="https://cyberpanel.net/" target="_blank" rel="noreferrer"> <img src="https://store-images.s-microsoft.com/image/apps.59751.d4c39dfb-5016-418e-9b48-24c7cdb5ef6e.0654d2bf-a8e8-48d3-a7bd-1f7c3a6b8b31.7a7649bb-4249-4222-b1e9-cfe94494addd" alt="CYberPAnnel" width="70" height="70"/> </a><br>
 
 
-<p><img align="center" width="2000" height="500" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" ></p>
+<p><img align="center" width="2000" height="500" src="https://cdn.dribbble.com/userupload/23587810/file/original-b27b7d682748627862a1adfff64683e4.gif" ></p>
 
 </p><br><br>
