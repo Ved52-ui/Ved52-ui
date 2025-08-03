@@ -28,8 +28,9 @@
 
 <h3 align="left">Real-Time Servers</h3>
 <a href="https://www.plesk.com/" target="_blank" rel="noreferrer"> <img src="https://cdn1.plesk.com/wp-content/uploads/2017/05/27012542/plesk_logo_primary_positive_.jpg" alt="Plesk" width="70" height="70"/></a>
-<a href="https://cyberpanel.net/" target="_blank" rel="noreferrer"> <img src="https://store-images.s-microsoft.com/image/apps.59751.d4c39dfb-5016-418e-9b48-24c7cdb5ef6e.0654d2bf-a8e8-48d3-a7bd-1f7c3a6b8b31.7a7649bb-4249-4222-b1e9-cfe94494addd" alt="CYberPAnnel" width="70" height="70"/> </a><br>
-<p><img align="center" width="2000" height="500" src="https://github.com/Ved52-ui/AWS-Certificate/blob/main/AWS-Certificate.pdf" text="## 📌AWS Certificate" ><p>
+<a href="https://cyberpanel.net/" target="_blank" rel="noreferrer"> <img src="https://store-images.s-microsoft.com/image/apps.59751.d4c39dfb-5016-418e-9b48-24c7cdb5ef6e.0654d2bf-a8e8-48d3-a7bd-1f7c3a6b8b31.7a7649bb-4249-4222-b1e9-cfe94494addd" alt="CYberPAnnel" width="70" height="70"/> </a><br><br>
+##  Certificate
+<a href="https://github.com/Ved52-ui/AWS-Certificate/blob/main/AWS-Certificate.pdf" target="_blank" rel="noreferrer"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/aws-color.png" alt="AWS" width="40" height="40"/> </a> 
 
 <p><img align="center" width="2000" height="500" src="https://cdn.dribbble.com/userupload/23587810/file/original-b27b7d682748627862a1adfff64683e4.gif" ></p>
 
