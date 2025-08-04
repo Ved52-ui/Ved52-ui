@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ved Patel</h1>
 <p align="left"> <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"  height="500" width="4000" alt="ved52-ui"/> </p>
-
+////////
 
 <h3 align="left">Connect with me:</h3>
 
