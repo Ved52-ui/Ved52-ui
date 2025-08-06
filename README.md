@@ -6,7 +6,7 @@
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/patel-ved-906bb1284?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b%2flaowacntgewbejzpd591w%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/patel-ved-906bb1284?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b%2flaowacntgewbejzpd591w%3d%3d" height="50" width="40"/></a>
 <a href="https://instagram.com/vedpatel1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vedpatel1010" height="50" width="40" /></a><a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtDwjBPqrDsVzFKJQrTLtjqdmWFklnpSPkXMKkqhvhNJChZmkSdvjKRMMMJptVcBQDrfgTZV" target="blank"><img alignn="center" src="https://www.svgrepo.com/show/521128/email-1.svg" alt="vedpatel9102006@gmail.com" height="80" width="40"/> </a>
----------------
+--------------
 
 <p>
 <h3 align="left">Languages and Tools:</h3>
