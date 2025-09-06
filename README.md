@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Ved Patel</h1>
 <p align="left"> <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"  height="500" width="4000" alt="ved52-ui"/> </p>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
