@@ -47,7 +47,18 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ved52-ui&" alt="ved52-ui" /></p>
 <h1>Certificates</h1><br>
 <a href="https://github.com/Ved52-ui/AWS-Certificate/blob/main/AWS-Certificate.pdf" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="40" height="40"/> </a> <br><br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 <p><img align="center" width="2000" height="500" src="https://cdn.dribbble.com/userupload/23587810/file/original-b27b7d682748627862a1adfff64683e4.gif" ></p>
 
 </p><br><br>
