@@ -21,7 +21,7 @@
 
 
 ###
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ved52-ui&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="brijeshthummar02" />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ved52-ui&show_icons=true&locale=en&layout=compact" alt="ved52-ui" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ved52-ui&show_icons=true&locale=en" alt="ved52-ui" /></p>
