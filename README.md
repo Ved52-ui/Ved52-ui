@@ -15,9 +15,6 @@
  
   <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-<h1 align="center">Hi 👋, I'm Ved Patel</h1>
-<p align="left"> <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"  height="500" width="4000" alt="ved52-ui"/> </p>
-
 
 
 
