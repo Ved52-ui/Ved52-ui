@@ -26,7 +26,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ved52-ui&show_icons=true&locale=en" alt="ved52-ui" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ved52-ui&" alt="ved52-ui" /></p>
+
 
 <p><img align="center" width="2000" height="500" src="https://cdn.dribbble.com/userupload/23587810/file/original-b27b7d682748627862a1adfff64683e4.gif" ></p>
 
