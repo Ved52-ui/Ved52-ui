@@ -16,13 +16,6 @@
   <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-# My Certificates
-
-## Data Engineering Certificate
-![Data Engineering Certificate](AWS-Certificate.pdf)
-
-## Python Programming
-![Python Certificate](certificates/python_cert.png)
 
 
 
