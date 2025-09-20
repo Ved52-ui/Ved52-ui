@@ -18,8 +18,8 @@
 
 # My Certificates
 
-## Data Science Certificate
-![Data Science Certificate](certificates/data_science_cert.png)
+## Data Engineering Certificate
+![Data Engineering Certificate](AWS-Certificate.pdf)
 
 ## Python Programming
 ![Python Certificate](certificates/python_cert.png)
