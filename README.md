@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B300FF,100:00FFD1&height=200&section=header&text=Ved%20Patel&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Architecting%20scalable%20solutions%20%26%20building%20futuristic%20tech&descAlignY=55&descSize=20" width="100%" />
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:B300FF,100:00FFD1&height=200&section=header&text=Ved%20Patel&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Architecting%20scalable%20solutions%20%26%20building%20futuristic%20tech&descAlignY=55&descSize=20](https://i.pinimg.com/originals/da/c5/5f/dac55fd0c0dd5cbe7a836d6274e681e8.gif)" width="100%" />
 
 <br/>
 
