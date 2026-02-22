@@ -12,13 +12,24 @@
 
 
 <div align="center">
- 
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
 </div>
 
 
 
+<h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ved52-ui&label=Profile%20views&color=0e75b6&style=flat" alt="ved52-ui" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ved52-ui" alt="ved52-ui" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ved52-ui&show_icons=true&locale=en" alt="ved52-ui" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ved52-ui&" alt="ved52-ui" /></p>
 
 ###
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ved52-ui&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="brijeshthummar02" />
