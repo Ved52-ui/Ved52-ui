@@ -6,7 +6,134 @@
 
 <h1 align="center">Hi 👋, I'm Ved Patel</h1>
 <p align="center"> <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="header-gif"/> </p>
+## 🚀 Featured Projects
 
+---
+
+### 🏭 Real-Time Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+
+#### 🏭 ERP + CRM Solution
+**Polyfilms Company** · *Real-Time*
+
+Complete business management solution for a manufacturing company.
+
+- 👥 Customer Management
+- 📦 Inventory Control
+- 📊 Sales & Reports
+- 🧾 Invoice Management
+- ⚙️ Business Workflows
+- 🤝 CRM Operations
+
+`Django` `PostgreSQL` `Bootstrap`
+
+    </td>
+    <td width="33%" valign="top">
+
+#### 🚚 Consignment Tracking System
+**Logistics Provider** · *Real-Time*
+
+End-to-end logistics tracking platform for shipment visibility.
+
+- 📡 Real-time Shipment Tracking
+- 🔄 Delivery Status Updates
+- 📋 Consignment Workflow Monitoring
+- 🌐 Customer Tracking Portal
+
+`Django` `REST API` `JavaScript`
+
+    </td>
+    <td width="33%" valign="top">
+
+#### 💰 Customer & Agent Management
+**Finance Company** · *Real-Time*
+
+Secure finance management system for customer and agent operations.
+
+- 🗂️ Customer Records
+- 🧑‍💼 Agent Management
+- 💳 Finance Details Tracking
+- 🔐 Secure Data Handling
+- 📈 Reporting System
+
+`Django` `PostgreSQL` `Bootstrap`
+
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📱 Other Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+
+#### 📝 Blogs App
+Modern blogging platform with full content management.
+
+- ✏️ CRUD Operations
+- 🔒 Authentication
+- 📱 Responsive UI
+- 🗂️ Category Management
+
+`Django` `SQLite` `Bootstrap`
+
+    </td>
+    <td width="33%" valign="top">
+
+#### 💸 Expense Tracker App
+Smart personal finance and expense management application.
+
+- 💰 Income & Expense Tracking
+- 📊 Dashboard Analytics
+- 🏷️ Category Management
+- 🎨 Clean UI
+
+`Django` `Chart.js` `Bootstrap`
+
+    </td>
+    <td width="33%" valign="top">
+
+#### 🎓 Student Management System
+Complete student information and management system.
+
+- 🧑‍🎓 Student Info Management
+- 🔁 CRUD Operations
+- 📋 Records & Profiles
+- 🖥️ Clean Interface
+
+`Django` `SQLite` `Bootstrap`
+
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+#### 🌐 Static Websites Collection
+Collection of responsive business and brand websites.
+
+- 🎨 Modern UI/UX Design
+- 📱 Fully Responsive
+- 🏢 Business & Brand Sites
+- ✨ Clean Aesthetics
+
+`HTML` `CSS` `JavaScript`
+
+    </td>
+  </tr>
+</table>
+
+---
+
+> 💡 *Most real-time projects are deployed for active clients and may not be publicly available on GitHub due to confidentiality.*
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ved52-ui&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
 <h3 align="center">🏆 GitHub Trophies</h3>
