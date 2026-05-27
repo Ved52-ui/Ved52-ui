@@ -10,131 +10,115 @@
 
 ---
 
-### 🏭 Real-Time Projects
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-
-#### 🏭 ERP + CRM Solution
-**Polyfilms Company** · *Real-Time*
-
-Complete business management solution for a manufacturing company.
-
-- 👥 Customer Management
-- 📦 Inventory Control
-- 📊 Sales & Reports
-- 🧾 Invoice Management
-- ⚙️ Business Workflows
-- 🤝 CRM Operations
-
-`Django` `PostgreSQL` `Bootstrap`
-
-    </td>
-    <td width="33%" valign="top">
-
-#### 🚚 Consignment Tracking System
-**Logistics Provider** · *Real-Time*
-
-End-to-end logistics tracking platform for shipment visibility.
-
-- 📡 Real-time Shipment Tracking
-- 🔄 Delivery Status Updates
-- 📋 Consignment Workflow Monitoring
-- 🌐 Customer Tracking Portal
-
-`Django` `REST API` `JavaScript`
-
-    </td>
-    <td width="33%" valign="top">
-
-#### 💰 Customer & Agent Management
-**Finance Company** · *Real-Time*
-
-Secure finance management system for customer and agent operations.
-
-- 🗂️ Customer Records
-- 🧑‍💼 Agent Management
-- 💳 Finance Details Tracking
-- 🔐 Secure Data Handling
-- 📈 Reporting System
-
-`Django` `PostgreSQL` `Bootstrap`
-
-    </td>
-  </tr>
-</table>
+## 🏭 Real-Time Projects
 
 ---
 
-### 📱 Other Projects
+### 🏭 ERP + CRM Solution &nbsp;·&nbsp; Polyfilms Company
+> Complete business management solution for a manufacturing company
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
+| Feature | Feature |
+|---|---|
+| 👥 Customer Management | 🧾 Invoice Management |
+| 📦 Inventory Control | ⚙️ Business Workflows |
+| 📊 Sales & Reports | 🤝 CRM Operations |
 
-#### 📝 Blogs App
-Modern blogging platform with full content management.
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+
+---
+
+### 🚚 Consignment Tracking System &nbsp;·&nbsp; Logistics Provider
+> End-to-end logistics tracking platform for shipment visibility
+
+| Feature | Feature |
+|---|---|
+| 📡 Real-time Shipment Tracking | 📋 Consignment Workflow Monitoring |
+| 🔄 Delivery Status Updates | 🌐 Customer Tracking Portal |
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat&logo=postman&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+---
+
+### 💰 Customer & Agent Management System &nbsp;·&nbsp; Finance Company
+> Secure finance management system for customer and agent operations
+
+| Feature | Feature |
+|---|---|
+| 🗂️ Customer Records | 🔐 Secure Data Handling |
+| 🧑‍💼 Agent Management | 📈 Reporting System |
+| 💳 Finance Details Tracking | 📊 Analytics Dashboard |
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+
+---
+
+## 📱 Other Projects
+
+---
+
+### 📝 Blogs App
+> Modern blogging platform with full content management
 
 - ✏️ CRUD Operations
 - 🔒 Authentication
 - 📱 Responsive UI
 - 🗂️ Category Management
 
-`Django` `SQLite` `Bootstrap`
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
-    </td>
-    <td width="33%" valign="top">
+---
 
-#### 💸 Expense Tracker App
-Smart personal finance and expense management application.
+### 💸 Expense Tracker App
+> Smart personal finance and expense management application
 
 - 💰 Income & Expense Tracking
 - 📊 Dashboard Analytics
 - 🏷️ Category Management
 - 🎨 Clean UI
 
-`Django` `Chart.js` `Bootstrap`
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
-    </td>
-    <td width="33%" valign="top">
+---
 
-#### 🎓 Student Management System
-Complete student information and management system.
+### 🎓 Student Management System
+> Complete student information and records management system
 
 - 🧑‍🎓 Student Info Management
 - 🔁 CRUD Operations
 - 📋 Records & Profiles
 - 🖥️ Clean Interface
 
-`Django` `SQLite` `Bootstrap`
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
-    </td>
-  </tr>
-</table>
+---
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-#### 🌐 Static Websites Collection
-Collection of responsive business and brand websites.
+### 🌐 Static Websites Collection
+> Collection of responsive business and brand websites with modern UI/UX
 
 - 🎨 Modern UI/UX Design
 - 📱 Fully Responsive
 - 🏢 Business & Brand Sites
 - ✨ Clean Aesthetics
 
-`HTML` `CSS` `JavaScript`
-
-    </td>
-  </tr>
-</table>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
 
-> 💡 *Most real-time projects are deployed for active clients and may not be publicly available on GitHub due to confidentiality.*
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ved52-ui&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
+> 💡 *Real-time projects are deployed for active clients and may not be publicly available on GitHub due to confidentiality.*<p align="center"> <img src="https://komarev.com/ghpvc/?username=ved52-ui&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
