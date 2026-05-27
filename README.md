@@ -23,9 +23,7 @@
 | 📦 Inventory Control | ⚙️ Business Workflows |
 | 📊 Sales & Reports | 🤝 CRM Operations |
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+
 
 ---
 
